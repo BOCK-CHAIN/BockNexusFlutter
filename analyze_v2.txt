@@ -1,0 +1,34 @@
+﻿Analyzing Nexus...                                              
+
+warning - The declaration '_shellNavigatorKey' isn't referenced - lib\core\router\app_router.dart:26:7 - unused_element
+   info - Unnecessary use of multiple underscores - lib\features\categories\subcategory_screen.dart:52:41 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\categories\subcategory_screen.dart:152:36 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\categories\subcategory_screen.dart:152:40 - unnecessary_underscores
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\checkout\checkout_screen.dart:263:15 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\checkout\checkout_screen.dart:264:15 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\orders\my_orders_screen.dart:56:29 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\orders\my_orders_screen.dart:118:46 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\orders\my_orders_screen.dart:118:50 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\orders\order_detail_screen.dart:241:32 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\orders\order_detail_screen.dart:241:36 - unnecessary_underscores
+warning - Unused import: '../../core/constants/mock_data.dart' - lib\features\orders\write_review_screen.dart:4:8 - unused_import
+   info - Unnecessary use of multiple underscores - lib\features\orders\write_review_screen.dart:62:47 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\orders\write_review_screen.dart:62:51 - unnecessary_underscores
+
+flutter : 14 issues 
+found. (ran in 8.3s)
+At line:1 char:1
++ flutter analyze 2>&1 
+| Out-File -FilePath 
+analyze_v2.txt 
+-Encoding ut ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo      
+    : NotSpecifi    ed: 
+(14 issues found. (ran 
+in 8.3s):    String) 
+[], RemoteException
+    + 
+FullyQualifiedErrorId : 
+NativeComm    andError
+ 

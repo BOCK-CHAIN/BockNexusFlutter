@@ -1,0 +1,120 @@
+﻿Analyzing commerce_app...                                       
+
+  error - The function 'StateProvider' isn't defined - lib\core\providers\app_providers.dart:4:30 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\core\providers\app_providers.dart:7:32 - undefined_function
+warning - Unused import: '../../core/providers/app_providers.dart' - lib\core\router\app_router.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\forgot_password_screen.dart:77:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\forgot_password_screen.dart:122:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\login_screen.dart:90:66 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\login_screen.dart:92:85 - deprecated_member_use
+  error - Classes can only extend other classes - lib\features\auth\providers\auth_providers.dart:34:28 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\auth\providers\auth_providers.dart:35:26 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:41:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:41:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:44:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:44:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:50:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:50:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:58:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:58:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:61:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:61:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:68:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:68:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\auth\providers\auth_providers.dart:85:5 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\auth\providers\auth_providers.dart:89:22 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\features\auth\providers\auth_providers.dart:94:28 - undefined_function
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\register_screen.dart:114:66 - deprecated_member_use
+  error - The named parameter 'semanticsLabel' isn't defined - lib\features\cart\cart_screen.dart:47:27 - undefined_named_parameter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\cart\cart_screen.dart:60:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:152:73 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:157:77 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:160:79 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\home\home_screen.dart:219:43 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:236:89 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:265:72 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:282:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:303:59 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\home\home_screen.dart:351:51 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\home\home_screen.dart:384:49 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home_screen.dart:418:87 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\home\home_screen.dart:492:39 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\home\home_screen.dart:493:34 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\home\home_screen.dart:509:32 - unnecessary_underscores
+  error - The function 'StateProvider' isn't defined - lib\features\home\providers\product_providers.dart:17:34 - undefined_function
+  error - Classes can only extend other classes - lib\features\home\providers\product_providers.dart:41:28 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\home\providers\product_providers.dart:42:26 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\home\providers\product_providers.dart:45:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\home\providers\product_providers.dart:45:27 - undefined_identifier
+  error - Undefined name 'state' - lib\features\home\providers\product_providers.dart:49:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\home\providers\product_providers.dart:49:23 - undefined_identifier
+  error - Undefined name 'state' - lib\features\home\providers\product_providers.dart:53:5 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\home\providers\product_providers.dart:57:22 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\features\home\providers\product_providers.dart:63:27 - undefined_function
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\onboarding\onboarding_screen.dart:87:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\onboarding\onboarding_screen.dart:109:69 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\onboarding\onboarding_screen.dart:193:73 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\filter_bottom_sheet.dart:76:62 - deprecated_member_use
+  error - Expected an identifier - lib\features\search\filter_bottom_sheet.dart:146:23 - missing_identifier
+  error - Expected to find ')' - lib\features\search\filter_bottom_sheet.dart:146:23 - expected_token
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\filter_bottom_sheet.dart:162:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\filter_bottom_sheet.dart:186:43 - deprecated_member_use
+  error - The function 'StateProvider' isn't defined - lib\features\search\providers\search_providers.dart:6:29 - undefined_function
+  error - Classes can only extend other classes - lib\features\search\providers\search_providers.dart:9:38 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\search\providers\search_providers.dart:10:36 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:15:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:15:26 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:19:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:19:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:23:5 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\search\providers\search_providers.dart:28:5 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\features\search\providers\search_providers.dart:51:28 - undefined_function
+  error - Classes can only extend other classes - lib\features\search\providers\search_providers.dart:105:30 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\search\providers\search_providers.dart:106:28 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:109:35 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:111:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:111:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:116:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:116:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:120:37 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:122:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:122:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:126:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:126:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:130:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:130:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:130:41 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:134:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:134:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:134:42 - undefined_identifier
+  error - Undefined name 'state' - lib\features\search\providers\search_providers.dart:138:5 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\search\providers\search_providers.dart:143:5 - undefined_function
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\search_screen.dart:231:93 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\search\search_screen.dart:318:26 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\splash\splash_screen.dart:63:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\splash\splash_screen.dart:86:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\splash\splash_screen.dart:119:47 - deprecated_member_use
+  error - Target of URI doesn't exist: '../../core/constants/mock_data.dart' - lib\widgets\product_card.dart:3:8 - uri_does_not_exist
+  error - Undefined class 'Product' - lib\widgets\product_card.dart:9:9 - undefined_class
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\product_card.dart:31:37 - deprecated_member_use
+  error - The named parameter 'semanticsLabel' isn't defined - lib\widgets\rating_stars.dart:19:7 - undefined_named_parameter
+
+flutter : 98 issues 
+found. (ran in 2.8s)
+At line:1 char:1
++ flutter analyze 2>&1 
+| Out-File -Encoding 
+utf8 
+C:\Users\91720\Desktop 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo      
+        : NotSpecified  
+  : (98 issues found.   
+  (ran in 2.8s):Stri    
+ng) [], RemoteExcep    
+tion
+    + FullyQualifiedErr 
+   orId : NativeComman  
+  dError
+ 

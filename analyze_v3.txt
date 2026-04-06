@@ -1,0 +1,17 @@
+﻿Analyzing Nexus...                                              
+
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\checkout\checkout_screen.dart:263:15 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\checkout\checkout_screen.dart:264:15 - deprecated_member_use
+
+flutter : 2 issues found. (ran in 7.0s)
+At line:1 char:1
++ flutter analyze 2>&1 | Out-File 
+-FilePath analyze_v3.txt -Encoding ut 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpeci 
+   fied: (2 issues found. (ran in 7.0  
+  s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCo 
+   mmandError
+ 
