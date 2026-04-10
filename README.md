@@ -373,35 +373,6 @@ switch (product.sizeType) {
 
 ---
 
-## 🚫 Agent Rules — DO NOT
-
-- ❌ Do NOT rebuild or regenerate existing UI screens
-- ❌ Do NOT change existing navigation or GoRouter routes
-- ❌ Do NOT add a backend — this is frontend only
-- ❌ Do NOT remove `id_generator.dart` (kept for legacy reference)
-- ❌ Do NOT use `http` package — use `Dio` only
-- ❌ Do NOT store token anywhere except `SharedPreferences`
-- ❌ Do NOT hardcode any user ID — always use server response
-- ❌ Do NOT use full-screen `CircularProgressIndicator` — use shimmer
-- ❌ Do NOT use `localStorage` or browser APIs
-- ❌ Do NOT change `pubspec.yaml` package versions without confirming
-
----
-
-## ✅ Agent Rules — ALWAYS DO
-
-- ✅ Read this README before making any changes
-- ✅ Only touch files directly relevant to the requested change
-- ✅ Preserve all existing animations, themes, and design tokens
-- ✅ Wire all loading/error states to provider state (not local setState)
-- ✅ Use `TokenManager` for all token operations
-- ✅ Use `ApiClient` for all HTTP calls
-- ✅ Add `Authorization: Bearer <token>` for all protected routes
-- ✅ Handle 401 globally → clearToken + redirect to Login
-- ✅ Keep shimmer skeletons during real API loading
-- ✅ Maintain existing edge case handling on all screens
-
----
 
 ## 🔄 Completed Build Stages
 
